@@ -1,0 +1,18 @@
+Desenvolvedor: Rafael Fernandes de Oliveira
+Projeto Desenvolvido nas tecnologias:
+Spring, Hibernate com JPA, Maven, Json, Ajax e JSP
+Banco de dados: PostgreSQL
+Ferramenta: Eclipse Luna
+Servidor: Tomcat 8 
+
+Projeto
+Inserção de territórios em determinada área não podendo um território sobrepor o outro.
+
+Funções:
+Adicionar território;
+Remover território;
+Mostrar dados de um território;
+Pintar um quadrado dentro de um território;
+Desenhar territórios na área;
+
+Obs: Ao pintar o quadrado encima de um território pode ficar imperceptível devido ser apenas 1 x 1 o tamanho.

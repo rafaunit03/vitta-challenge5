@@ -1,0 +1,44 @@
+ul {
+	list-style-type: none;
+}
+
+.impressao{
+	border: solid 1px; margin-top:10px; height: 800px; width: 1000px;
+}
+
+input[type="text"]{
+margin:1px 5px 10px 0px;
+border:rgba(204,204,255,1) solid 1px;
+border-radius:5px;
+width:20%;
+font-size:0.8em !important;
+height:20px !important;
+}
+
+input[type="button"]{
+margin:1px 5px 10px 0px;
+border:rgba(204,204,255,1) solid 1px;
+border-radius:5px;
+width:15%;
+font-size:0.8em !important;
+height:30px !important;
+}
+
+fieldset{
+	border:1px solid rgba(162,162,162,1.00);
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+}
+
+fieldset legend{
+font-size:1.3em;
+}
+
+fieldset label{
+margin:1px 5px 10px 0px;
+border-radius:5px;
+width:20%;
+font-size:1.0em !important;
+height:25px !important;
+}
